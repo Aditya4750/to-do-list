@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>✅ My To-Do List</h1>
+      <h1>My To-Do List</h1>
       <div className="input-group">
         <input
           type="text"
